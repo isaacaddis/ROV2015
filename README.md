@@ -8,4 +8,10 @@ Members:
 5. Angel B.
 6. Uialii C.
 
+Challenge: Construct an underwater submarine vehicle to race others.
 
+GROUPS:
+
+Programming: Leader - Isaac
+Machining: Leader - Chris
+Drive: Leader - UNDECIDED
