@@ -12,6 +12,6 @@ Challenge: Construct an underwater submarine vehicle to race others.
 
 GROUPS:
 
-Programming: Leader - Isaac
+Programming: Leader - Coleman
 Machining: Leader - Chris
-Drive: Leader - UNDECIDED
+Drive: Leader - Angel B.
