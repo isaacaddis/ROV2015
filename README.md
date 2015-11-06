@@ -1,4 +1,6 @@
 # ROV2015
+
+In the Obsidian ROV team, we strive for combination of good design and ground-breaking technology.
 Members:
 
 1. Isaac A.
@@ -12,6 +14,9 @@ Challenge: Construct an underwater submarine vehicle to race others.
 
 GROUPS:
 
-Programming: Leader - Coleman
+Programming: Leader - Coleman Christy
+
 Machining: Leader - Chris
+
+
 Drive: Leader - Angel B.
