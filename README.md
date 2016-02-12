@@ -9,14 +9,14 @@ Members:
 4. Christopher M.
 5. Angel B.
 6. Uialii C.
-
-Challenge: Construct an underwater submarine vehicle to race others.
+7. Tobenna Ubachuckwu
+8. Christian Barrera
+Challenge: Construct an underwater submarine vehicle to do different tasks..
 
 GROUPS:
 
 Programming: Leader - Coleman Christy
 
-Machining: Leader - Chris
+Machining: Leader - Christopher Murillo
 
-
-Drive: Leader - Angel B.
+Drive: Leader - Angel Bermudez
