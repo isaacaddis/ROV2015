@@ -1,11 +1,13 @@
 // This code is proprietary information of
 // Obsidian ROV inc.
 // Written by Coleman Christy
+//Reviewed by Isaac Addis
+//TODO: Clean up code
 #include <Servo.h>
 Servo claw;
-
+//Define Variables
 float bouy = 0;
-bool sent = false;
+bool sent = false; 
 char recived;
 const byte controlPin1 = 2;
 const byte controlPin2 = 3;
@@ -15,9 +17,10 @@ const byte forwardpin = 5;//pwm
 const byte lightpin = 8;//digital
 const byte acc1pin = 10;//pwm
 const byte acc2pin = 12;//digital
-//send a/d for left/right, w/s for up/down
-//f/b for forward/back, 1/2 for accesories, o/p to toggle lights
-//3 to stop accesories
+/*
+  @author: Coleman Christy
+  @description: In the start of the code, initialize pins
+*/
 void setup() {
   claw.attach(acc1pin);
   Serial.begin(4800);
@@ -34,6 +37,11 @@ void setup() {
   analogWrite(leftrightpin, 127);
   claw.write(120);
 }
+/*
+  @author: Coleman Christy
+  @description: Recieves serial communications from Processsing. 
+  Keyboard Switches
+*/
 void loop() {
   if (Serial.available()) {
     recived = Serial.read();
