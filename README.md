@@ -11,12 +11,18 @@ Members:
 6. Uialii C.
 7. Tobenna Ubachuckwu
 8. Christian Barrera
+9. 
 Challenge: Construct an underwater submarine vehicle to do different tasks..
+
+Such as...
+
+1. Using a claw to pick up objects underwater
+2. Examining objects underwater using a camera
 
 GROUPS:
 
 Programming: Leader - Coleman Christy
 
-Machining: Leader - Christopher Murillo
+Mechanical: Leader - Christopher Murillo Leader - Tobenna Ubachuckwu
 
 Drive: Leader - Angel Bermudez
