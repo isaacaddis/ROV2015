@@ -4,14 +4,14 @@ In the Obsidian ROV team, we strive for combination of good design and ground-br
 Members:
 
 1. Isaac A.
-2. Coleman 
+2. Coleman C.
 3. Dylan F.
 4. Christopher M.
 5. Angel B.
 6. Uialii C.
-7. Tobenna Ubachuckwu
-8. Christian Barrera
-9. 
+7. Tobenna U.
+8. Christian B.
+
 Challenge: Construct an underwater submarine vehicle to do different tasks..
 
 Such as...
